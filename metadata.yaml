@@ -1,5 +1,8 @@
 _repo: In-the-Desert-of-Waiting-The-Legend-of-Camel-back-Mountain_53684
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53684-h/images/epubcover.jpg
 creator:
   author:
     agent_name: Johnston, Annie F. (Annie Fellows)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53684#In-the-Desert-of-Waiting-The-Legend-of-Camel-back-Mountain
 gutenberg_issued: '2016-12-07'
 gutenberg_type: Text
 identifiers:
